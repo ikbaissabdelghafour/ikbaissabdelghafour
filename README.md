@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdelghafour Ikbais
+# 👋 Hi, I'm Abdelghafour Ikbaiss
 
 ## 🚀 About Me
 I'm a **Full Stack Developer** passionate about **web development, Laravel, React.js, and CI/CD**. I enjoy solving problems, building scalable applications, and continuously learning new technologies.
@@ -35,11 +35,11 @@ I'm a **Full Stack Developer** passionate about **web development, Laravel, Reac
 💼 A Multi-Level Marketing system built with **PHP, Bootstrap, and JavaScript**, featuring an affiliate-based reward system.
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username=ikbaissabdelghafour&theme=dark&hide_border=true)
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdelgfhafourikbaiss@gmailcom)
 
 ---
 _✨ Always eager to learn and grow! Let's build something amazing together._ 🚀
