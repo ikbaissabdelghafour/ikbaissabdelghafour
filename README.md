@@ -24,7 +24,7 @@ I'm a **Full Stack Developer** passionate about **web development, Laravel, Reac
 
 ## 🌟 Featured Projects
 
-### 🔹 [Car Rental System](https://github.com/your-repo-link](https://github.com/ikbaissabdelghafour/The-rental-cars.git)
+### 🔹 [Car Rental System](https://github.com/ikbaissabdelghafour/The-rental-cars)
 🚗 A Laravel-based car rental system with an intuitive UI, booking management, and payment integration.
 
 ### 🔹 [Babouches Maroc](https://babouchesmaghreb.com)
