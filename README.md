@@ -21,24 +21,23 @@ I'm a **Full Stack Developer** passionate about **web development, Laravel, Reac
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-17A2B8?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## 🌟 Featured Projects
 
-### 🔹 [Car Rental System](https://github.com/your-repo-link)
+### 🔹 [Car Rental System]([https://github.com/your-repo-link](https://github.com/ikbaissabdelghafour/The-rental-cars.git))
 🚗 A Laravel-based car rental system with an intuitive UI, booking management, and payment integration.
 
-### 🔹 [Babouches Maroc](https://github.com/your-repo-link)
+### 🔹 [Babouches Maroc](https://babouchesmaghreb.com)
 🛍️ An e-commerce website built with **WordPress & WooCommerce**, customized for Moroccan handmade shoes.
 
-### 🔹 [MLM System](https://github.com/your-repo-link)
+### 🔹 MLM System
 💼 A Multi-Level Marketing system built with **PHP, Bootstrap, and JavaScript**, featuring an affiliate-based reward system.
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username=ikbaissabdelghafour&theme=dark&hide_border=true)
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikbaiss-abdelghafour)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](abdelgfhafourikbaiss@gmailcom)
 
 ---
