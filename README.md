@@ -33,8 +33,7 @@ I'm a **Full Stack Developer** passionate about **web development, Laravel, Reac
 ### 🔹 MLM System
 💼 A Multi-Level Marketing system built with **PHP, Bootstrap, and JavaScript**, featuring an affiliate-based reward system.
 
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username=ikbaissabdelghafour&theme=dark&hide_border=true)
+
 
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikbaiss-abdelghafour)
